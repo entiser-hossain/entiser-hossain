@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I am Entiser Hossain
 
-<!--
-**entiser-hossain/entiser-hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering student at North South University, Bangladesh, with the goal of becoming a Software Developer.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying Computer Science and Engineering at NSU.
+- Learning Java from a university course.
+- Understanding web development and developing skills in practice.
+- Practicing programming and problem-solving.
+- Diving into AI,data analytics and productivity solutions.
+
+## Currently Learning
+
+-Java
+-JavaScript
+-Web development
+-Git and Github
+
+## Goals
+
+- Develop useful and well documented software projects.
+- Improve my computer programming skills and problem-solving skills.
+- Develop a portfolio of web development and Java projects.
+
+## Connect With Me
+
+-LinkedIn: https://www.linkedin.com/in/entiser-hossain/
+
+
+
